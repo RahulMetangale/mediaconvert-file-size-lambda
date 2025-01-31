@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0188d64f-ba36-4042-87ce-22f4cf589d76)## Purpose:
+## Purpose:
 Get transcoded file size information after transcoding job is complete.
 MediaConvert sends the event for COMPLETE when all outputs are written to Amazon S3 without errors. This event information does not contain file size. The following JSON is an example event containing the COMPLETE status for a job.
 `{
