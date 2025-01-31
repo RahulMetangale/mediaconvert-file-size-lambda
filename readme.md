@@ -75,5 +75,5 @@ Lambda function will extract the file size information and send message to SNS t
 ### Runtime environment
 Python 3.9
 ### Permissions:
-Aamazon S3 Read Only access
+Aamazon S3 Read Only access  
 SNS Publish 
