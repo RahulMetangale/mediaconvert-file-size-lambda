@@ -60,7 +60,7 @@ MediaConvert sends the event for COMPLETE when all outputs are written to Amazon
 
 
 ## Expectation
-Get email notification in following format with file size information
+Get email notification in following format with file size information  
 MediaConvert job completed.
 File: <File Path>, Size:  <Size> GB
 
